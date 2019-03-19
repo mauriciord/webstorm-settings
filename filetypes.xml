@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="py" type="Dart" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="weifwei" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
