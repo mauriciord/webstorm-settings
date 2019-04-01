@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="py" type="Dart" />
       <mapping ext="mdx" type="Markdown" />
+      <mapping pattern=".env.migration-dev.local" type="Native" />
       <mapping pattern="weifwei" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
