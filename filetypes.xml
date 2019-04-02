@@ -4,6 +4,7 @@
       <mapping ext="py" type="Dart" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="weifwei" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
