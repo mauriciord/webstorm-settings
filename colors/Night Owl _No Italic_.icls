@@ -4,7 +4,7 @@
     <property name="created">2018-07-21T16:37:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-04-01T14:34:26</property>
+    <property name="modified">2019-07-22T23:07:23</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -83,6 +83,15 @@
       <value>
         <option name="FOREGROUND" value="addb67" />
       </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value />
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value />
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value />
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
@@ -2920,6 +2929,21 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -3205,6 +3229,36 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="5f7e97" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
