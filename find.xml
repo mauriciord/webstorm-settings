@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '~/workspace/iclinic-env/iclinic-webapp/src/features/addon/components/AddonInfo.js [iclinic-webapp]'" />
+    <option name="defaultScopeName" value="File '~/workspace/iclinic-env/iclinic-webapp/src/features/addon/components/AddonInfo.js [iclinic-webapp]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/workspace/iclinic-env/iclinic-webapp/src/features/addon/components/AddonInfo.js [iclinic-webapp]'" />
   </component>
 </application>
