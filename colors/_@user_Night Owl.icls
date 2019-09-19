@@ -1,29 +1,30 @@
-<scheme name="Night Owl Carbon" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Night Owl" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-07-31T11:02:10</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-09-19T09:36:12</property>
+    <property name="created">2019-09-16T22:04:04</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-09-19T09:34:09</property>
+    <property name="originalScheme">Night Owl</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="addb67" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="7e57c2" />
-    <option name="CARET_ROW_COLOR" value="353334" />
+    <option name="CARET_ROW_COLOR" value="232235" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="ff5370" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -45,7 +46,7 @@
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="7fdbca" />
-    <option name="GUTTER_BACKGROUND" value="212121" />
+    <option name="GUTTER_BACKGROUND" value="11627" />
     <option name="INDENT_GUIDE" value="34324a" />
     <option name="INFORMATION_HINT" value="292d3e" />
     <option name="LINE_NUMBERS_COLOR" value="5f7e97" />
@@ -56,13 +57,39 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="676e95" />
     <option name="QUESTION_HINT" value="292d3e" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="232235" />
     <option name="RIGHT_MARGIN_COLOR" value="444267" />
     <option name="SELECTED_INDENT_GUIDE" value="34324a" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="1d3b53" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff1675c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff1675c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="11627" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff167580" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff167580" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="11627" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff1675" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ff1675" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="11627" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ff1675c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff1675c0" />
+    <option name="ScrollBar.Mac.trackColor" value="11627" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff1675c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff1675c0" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="11627" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff167580" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ff167580" />
+    <option name="ScrollBar.Transparent.trackColor" value="11627" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="ff1675" />
+    <option name="ScrollBar.hoverThumbColor" value="ff1675" />
+    <option name="ScrollBar.hoverTrackColor" value="11627" />
+    <option name="ScrollBar.thumbBorderColor" value="ff1675c0" />
+    <option name="ScrollBar.thumbColor" value="ff1675c0" />
+    <option name="ScrollBar.trackColor" value="11627" />
     <option name="TEARLINE_COLOR" value="444267" />
+    <option name="TOOLTIP" value="11627" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212c32" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
@@ -146,6 +173,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -251,6 +287,16 @@
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="CODE_VISION_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="676e95" />
+      </value>
+    </option>
+    <option name="CODE_VISION_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
@@ -2694,12 +2740,12 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="78ccf0" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="addb67" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2730,6 +2776,11 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="addb67" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -2749,7 +2800,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="7fdbca" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -2770,7 +2821,7 @@
     </option>
     <option name="PY.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="7fdbca" />
       </value>
     </option>
     <option name="PY.PARENTHS">
@@ -2791,7 +2842,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="78ccf0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2802,12 +2853,12 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ecc48d" />
       </value>
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ecc48d" />
       </value>
     </option>
     <option name="Parentheses">
@@ -3644,7 +3695,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d6deeb" />
-        <option name="BACKGROUND" value="212121" />
+        <option name="BACKGROUND" value="11627" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

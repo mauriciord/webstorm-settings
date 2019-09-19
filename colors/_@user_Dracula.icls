@@ -4,7 +4,7 @@
     <property name="created">2019-08-13T18:12:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-06T17:28:20</property>
+    <property name="modified">2019-09-19T09:37:42</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -871,7 +871,7 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="50fa78" />
