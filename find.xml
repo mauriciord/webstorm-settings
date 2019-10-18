@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../index.js'" />
-    <option name="defaultScopeName" value="File '.../index.js'" />
+    <option name="customScope" value="File '.../src/components/date-picker/DateTimePicker.js'" />
+    <option name="defaultScopeName" value="File '.../src/components/date-picker/DateTimePicker.js'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../index.js'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/components/date-picker/DateTimePicker.js'" />
   </component>
 </application>
