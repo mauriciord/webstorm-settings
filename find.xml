@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/workspace/iclinic-env/iclinic-webapp/src/pages/telemedicine/DoctorRoom.tsx [iclinic-webapp]'" />
-    <option name="defaultScopeName" value="File '~/workspace/iclinic-env/iclinic-webapp/src/pages/telemedicine/DoctorRoom.tsx [iclinic-webapp]'" />
+    <option name="customScope" value="Directory '~/workspace/iclinic-env/iclinic-webapp/src/pages [iclinic-webapp]'" />
+    <option name="defaultScopeName" value="Directory '~/workspace/iclinic-env/iclinic-webapp/src/pages [iclinic-webapp]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/workspace/iclinic-env/iclinic-webapp/src/pages/telemedicine/DoctorRoom.tsx [iclinic-webapp]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/workspace/iclinic-env/iclinic-webapp/src/pages [iclinic-webapp]'" />
   </component>
 </application>
