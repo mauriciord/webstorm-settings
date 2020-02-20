@@ -34,6 +34,7 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
