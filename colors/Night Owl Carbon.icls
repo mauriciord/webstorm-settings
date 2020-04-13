@@ -4,11 +4,11 @@
     <property name="created">2018-07-31T11:02:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-09-19T09:36:12</property>
+    <property name="modified">2020-04-13T09:31:10</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
