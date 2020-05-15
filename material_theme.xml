@@ -1,8 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="5a8ec4" />
+    <option name="contrastMode" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="26" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="3d3a39" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-2c77037a:168a68be26a:-7ffd" />
     <option name="version" value="5.2.0" />
+    <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
