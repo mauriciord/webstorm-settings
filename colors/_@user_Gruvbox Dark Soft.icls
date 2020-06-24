@@ -1,13 +1,13 @@
-<scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Gruvbox Dark Soft" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-17T14:19:04</property>
+    <property name="created">2020-06-24T09:47:22</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-24T12:11:07</property>
-    <property name="originalScheme">Gruvbox Dark Medium</property>
+    <property name="modified">2020-06-24T12:10:51</property>
+    <property name="originalScheme">Gruvbox Dark Soft</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -15,10 +15,10 @@
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
-    <option name="DOCUMENTATION_COLOR" value="32302f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="32302f" />
+    <option name="DOCUMENTATION_COLOR" value="282828" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
-    <option name="GUTTER_BACKGROUND" value="282828" />
+    <option name="GUTTER_BACKGROUND" value="32302f" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
@@ -954,7 +954,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
-        <option name="BACKGROUND" value="282828" />
+        <option name="BACKGROUND" value="32302f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
