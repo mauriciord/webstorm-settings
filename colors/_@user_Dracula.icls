@@ -1,22 +1,12 @@
 <scheme name="_@user_Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-26T10:39:43</property>
+    <property name="created">2020-08-01T19:11:30</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-27T15:53:35</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-08-02T22:55:56</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -1029,7 +1019,6 @@
         <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
