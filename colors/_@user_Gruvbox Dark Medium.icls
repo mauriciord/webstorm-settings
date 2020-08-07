@@ -1,16 +1,11 @@
 <scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-17T14:19:04</property>
+    <property name="created">2020-08-06T22:19:00</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-07-06T09:17:06</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-08-06T22:20:51</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -19,11 +14,11 @@
     <option name="DOCUMENTATION_COLOR" value="32302f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="282828" />
-    <option name="INDENT_GUIDE" value="41372f" />
+    <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RIGHT_MARGIN_COLOR" value="373534" />
+    <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
