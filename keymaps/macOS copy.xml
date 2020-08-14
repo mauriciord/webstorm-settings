@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt i" />
   </action>
   <action id="RunInspection" />
+  <action id="one.util.ideaplugin.screenshoter.SaveImageAction">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
 </keymap>
