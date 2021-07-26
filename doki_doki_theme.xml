@@ -1,6 +1,7 @@
 <application>
   <component name="DokiDokiThemeConfig">
-    <option name="processedLegacyStartup" value="true" />
-    <option name="version" value="7.0.4" />
+    <option name="firstTime" value="false" />
+    <option name="userId" value="8bc53e7a-3ccc-4895-bbbc-e3eb14d7c0ab" />
+    <option name="version" value="17.0.0" />
   </component>
 </application>
