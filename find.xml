@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Api package" />
-    <option name="defaultScopeName" value="Api package" />
-    <option name="SEARCH_SCOPE" value="Api package" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Client package" />
+    <option name="defaultScopeName" value="Client package" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Client package" />
   </component>
 </application>
