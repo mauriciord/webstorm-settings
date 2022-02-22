@@ -4,7 +4,7 @@
     <property name="created">2021-02-25T20:16:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-02-21T23:36:05</property>
+    <property name="modified">2022-02-22T11:14:46</property>
     <property name="originalScheme">_@user_Night Owl (Material)</property>
   </metaInfo>
   <console-font>
@@ -13,7 +13,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
