@@ -3,7 +3,7 @@
     <property name="created">2022-02-24T14:09:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-03T19:32:10</property>
+    <property name="modified">2022-06-08T14:07:36</property>
     <property name="originalScheme">Omni</property>
   </metaInfo>
   <colors>
@@ -424,7 +424,11 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="988bc7" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="988bc7" />
